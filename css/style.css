@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: IRANSansFaNum;
+	text-decoration: none !important;
+}
+
+.custom-input-group input, button {
+	font-size: 15px !important;
+	box-shadow: none !important;
+}
+
+.custom-header a {
+	color: #8e8e8e !important;
+	font-size: 14px !important;
+	transition: all 0.3s ease !important;
+}
+
+.custom-header a:hover {
+	color: #f58221 !important;
+}
+
+.custom-header-none a {
+	color: #8e8e8e !important;
+	transition: all 0.3s ease !important;
+	font-size: 19px !important;
+	margin-top:60px !important; 
+}
+
+.custom-header-none a:hover {
+	color: #f58221 !important;
+}
